@@ -25,7 +25,7 @@ I often forget to finish one project before starting the next one—but hey, tha
 
 ## 📌 Featured Project
 
-### [Heartpiece Organizer](https://github.com/your-username/heartpiece-organizer)  
+### [Heartpiece Organizer](https://github.com/mineraphi/heartpiece-organizer)  
 A web-based project manager for *Heartpiece-Anime*, a startup by my friend. It helps manage project progress, track tasks, and keeps everything secure with a login system.
 
 > Licensed under the GNU GPL v3.0
